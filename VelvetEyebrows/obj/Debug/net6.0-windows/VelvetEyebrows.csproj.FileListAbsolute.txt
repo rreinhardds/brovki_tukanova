@@ -1,0 +1,345 @@
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.AssemblyReference.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.lref
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.exe
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.deps.json
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.runtimeconfig.json
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.pdb
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\App.baml
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.g.resources
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfoInputs.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfo.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CoreCompileInputs.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CopyComplete
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\refint\VelvetEyebrows.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.pdb
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.genruntimeconfig.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\ref\VelvetEyebrows.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\LoginWindow.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_Content.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\LoginWindow.baml
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\MainWindow.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\ServicesPage.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\MainWindow.baml
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\view\ServicesPage.baml
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\122454.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\96.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\face.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\makeup.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\man.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\mask.jpeg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\no_image.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\piling.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\soliarij.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\брови.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Гречишный массаж.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Демакияж.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Депиляция воском.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Европейский маникюр.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\ИК-сауна.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Классический маникюр.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Комбинированный маникюр.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Контурная пластика.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\массаж.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Мезотерапия.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Моделирование ресниц.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\ногти.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Окрашивание бровей.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Парафинотерапия.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Покрытие ногтей гель-лаком.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Полировка ногтей.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Прессотерапия.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Прокол ушей пистолетом.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Ресницы.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Снятие ресниц.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Стоун-терапия.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\стрижка.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Укрепление ногтей гелем.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Шугаринг.jpg
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Экспресс SPA.png
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Image\Services\Экспресс-педикюр.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.exe
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.deps.json
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.runtimeconfig.json
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.pdb
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.AssemblyReference.cache
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\LoginWindow.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\MainWindow.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\ServicesPage.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_Content.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.cache
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.lref
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\App.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\LoginWindow.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\MainWindow.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\ServicesPage.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.g.resources
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfoInputs.cache
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfo.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CopyComplete
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.dll
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\refint\VelvetEyebrows.dll
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.pdb
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.genruntimeconfig.cache
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\ref\VelvetEyebrows.dll
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\UpdateServicePage.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\UpdateServicePage.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\Blzapis.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\Registrachia.g.cs
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\Blzapis.baml
+C:\Users\Даша\Documents\VelvetEyebrows\obj\Debug\net6.0-windows\view\Registrachia.baml
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\122454.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\96.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\face.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\makeup.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\man.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\mask.jpeg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\no_image.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\piling.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\soliarij.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\брови.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Гречишный массаж.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Демакияж.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Депиляция воском.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Европейский маникюр.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\ИК-сауна.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Классический маникюр.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Комбинированный маникюр.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Контурная пластика.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\массаж.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Мезотерапия.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Моделирование ресниц.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\ногти.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Окрашивание бровей.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Парафинотерапия.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Покрытие ногтей гель-лаком.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Полировка ногтей.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Прессотерапия.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Прокол ушей пистолетом.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Ресницы.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Снятие ресниц.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Стоун-терапия.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\стрижка.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Укрепление ногтей гелем.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Шугаринг.jpg
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс SPA.png
+C:\Users\Даша\Documents\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс-педикюр.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\122454.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\96.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\face.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\makeup.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\man.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\mask.jpeg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\no_image.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\piling.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\soliarij.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\брови.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Гречишный массаж.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Декорирование нарощенных ресниц стразами.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Демакияж.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Депиляция воском.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Европейский маникюр.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\ИК-сауна.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Классический маникюр.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Комбинированный маникюр.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Контурная пластика.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\массаж.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Мезотерапия.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Моделирование ресниц.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\ногти.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Окрашивание бровей.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Парафинотерапия.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Покрытие ногтей гель-лаком.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Полировка ногтей.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Прессотерапия.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Прокол ушей пистолетом.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Ресницы.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Снятие ресниц.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Стоун-терапия.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\стрижка.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Укрепление ногтей гелем.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Шугаринг.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс SPA.png
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Assets\Images\Services\Экспресс-педикюр.jpg
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.exe
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.deps.json
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.runtimeconfig.json
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\VelvetEyebrows.pdb
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Humanizer.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\salon-main\VelvetEyebrows\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.AssemblyReference.cache
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\App.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_Content.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.cache
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows_MarkupCompile.lref
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\App.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.g.resources
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfoInputs.cache
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.AssemblyInfo.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CoreCompileInputs.cache
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.csproj.CopyComplete
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.dll
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\refint\VelvetEyebrows.dll
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.pdb
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\VelvetEyebrows.genruntimeconfig.cache
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\ref\VelvetEyebrows.dll
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\LoginWindow.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\MainWindow.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\Registrachia.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\ServicesPage.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\UpdateServicePage.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\LoginWindow.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\MainWindow.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\Registrachia.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\ServicesPage.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\UpdateServicePage.baml
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\zapis.g.cs
+D:\salon-main\VelvetEyebrows\obj\Debug\net6.0-windows\file\zapis.baml
